@@ -1,0 +1,52 @@
+
+
+*{
+    color: aliceblue;
+}
+
+div.container{
+    margin-top: 200px;
+ background-image: inherit;
+ background-size: contain;
+ background-repeat: no-repeat repeat-x;
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+
+   }
+   h2{
+    text-align: center;
+   }
+   .fp{
+    text-align: right;
+    margin-bottom: 10PX;
+   }
+   .btn{
+    width: 100%;
+   }
+   .btn:hover{
+  box-shadow: 0 0 55px rgb(0, 0, 255);
+
+   }
+   a{
+    color: green;
+
+   }
+   body{
+background-image: url(../index.jpg);
+   
+   background-size: cover;
+background-repeat: no-repeat repeat-x;
+}
+.hr{
+    width: 2000px;
+    color: white;
+}
+.sig{
+    margin-top: 30px;
+    text-align: center;
+}
+.sig2{
+    
+    text-align: center;
+}
